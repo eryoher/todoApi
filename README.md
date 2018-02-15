@@ -22,6 +22,8 @@ The framework source code can be found here: [cakephp/cakephp](https://github.co
 ```
 
 ## Configuration
-
-Read and edit `config/app.php` and setup the `'Datasources'` and any other
-configuration relevant for your application.
+```
+> Read and edit `config/app.php` and setup the `'Datasources'` and any other configuration relevant for your application.
+> the services created in the api generate json type response, To check the installation you must use
+the following service http://localhost/todoApi/lists.json
+```
